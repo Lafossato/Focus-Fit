@@ -24,7 +24,7 @@ Desenvolvemos um aplicativo mobile criado para orientar e auxiliar usuários que
 
 - Git;
 - Selenium;
-- Nessus;
+- Nessus.
 
 ## PLANEJAMENTO DE TESTE DE SISTEMAS
 ## TESTES:
