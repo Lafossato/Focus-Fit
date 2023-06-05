@@ -1,28 +1,38 @@
-# Focus-Fit
 ![WhatsApp Image 2023-05-28 at 01 16 49](https://github.com/Lafossato/Focus-Fit/assets/92603640/b7b3917d-8d5b-49d2-9d25-0967858512d4)
+# Focus-Fit
 
+# Índice
+* [O QUE SOMOS?]
+* [FERRAMENTAS E MÉTODOS ÁGEIS]
+* [PLANEJAMENTO DE TESTE DE SISTEMAS]
+* [ORÇAMENTO]
+* [REQUISITOS FUNCIONAIS]
+* [REQUISITOS NÃO FUNCIONAIS]
+* [ARQUITETURA DE CHAMA E RETORNO]
+* [CONSIDERAÇÕES FINAIS]
 
+## O QUE SOMOS?
 Desenvolvemos um aplicativo mobile criado para orientar e auxiliar usuários que praticam musculação e exercícios físicos a alcançarem os resultados desejados.
 
 ## FERRAMENTAS E MÉTODOS ÁGEIS
-## Plano:
+´Plano:´
 
 - Trello;
 - Git;
 - GitHub;
 - Figma.
 
-## Documentação:
+´Documentação:´
 - GitHub
 
-## Técnicas de qualidade aplicadas ao sistema computacional:
+´Técnicas de qualidade aplicadas ao sistema computacional:´
 
 - Testes de Software;
 - Testes de Segurança;
 - Automação de Testes;
 - Gerenciamento de Configuração.
 
-## Ferramentas utilizadas:
+´Ferramentas utilizadas:´
 
 - Git;
 - Selenium;
@@ -73,7 +83,6 @@ Proporcionando uma ajuda para quem está começando a frequentar academia e ter 
 - Vitor Sirotenco 822128201
 
 ## Agradecimentos aos professores:
-
 - Edgard Luiz Bernardes Valderramas
 - José Carmino Gomes Junior
 - Denise Lemes Fernandes Neves
