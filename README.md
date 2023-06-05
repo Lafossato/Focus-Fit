@@ -45,12 +45,12 @@ Os testes automatizados foram realizados da ferramenta Selenium.
 
 ## ORÇAMENTO
 Calculado com base em horas trabalhadas, salários, gastos com servidores e banco de dados. Não tiveram despesas com e.
-                             ** 1 Gerente geral do projeto**
-                              ** 2 programadores**
-                              ** 2 testadores**
-                             ** 2 designers ** 
-                               ** ___________**
-                           ** Preço final do projeto R$99.200**
+                             **1 Gerente geral do projeto**
+                             **2 programadores**
+                             **2 testadores**
+                             **2 designers ** 
+                              **___________**
+                           **Preço final do projeto R$99.200**
 
 ## REQUISITOS FUNCIONAIS
  Começamos com a tela de cadsatro de usuário, a onde contém: nome,sobrenome,e-mail, qual genero é, confirmação se é maior de idade e se concorda com os termos de uso do aplicativos.
