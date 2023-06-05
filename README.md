@@ -12,7 +12,7 @@
 
 ## O QUE SOMOS?
 
-Desenvolvemos um aplicativo mobile criado para orientar e auxiliar usuários que praticam musculação e exercícios físicos a alcançarem os resultados desejados.
+ Somos desenvolvedores de uma startup na qual desenvolvemos um aplicativo mobile criado para orientar e auxiliar usuários que praticam musculação e exercícios físicos a alcançarem os resultados desejados.
 
 ## FERRAMENTAS E MÉTODOS ÁGEIS
 **Plano:**
