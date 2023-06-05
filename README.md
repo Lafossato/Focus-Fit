@@ -1,14 +1,16 @@
 ![WhatsApp Image 2023-05-28 at 01 16 49 2](https://github.com/Lafossato/Focus-Fit/assets/92603640/8a01865a-01fa-4e46-be9d-e93c251aa143)
 
 # Índice
-* O QUE SOMOS?
-* FERRAMENTAS E MÉTODOS ÁGEIS
-* PLANEJAMENTO DE TESTE DE SISTEMAS
-* ORÇAMENTO
-* REQUISITOS FUNCIONAIS
-* REQUISITOS NÃO FUNCIONAIS
-* ARQUITETURA DE CHAMA E RETORNO
-* CONSIDERAÇÕES FINAIS
+* O Que Somos?
+* Ferramenta e Métodos Ágeis
+* Planejamneto de teste de sistema
+* Orçamento
+* Requisitos Funcional
+* Requisitos não Funcionais
+* Arquitetura de Chama e Retorno
+* Considerações Finais
+* Integrantes
+* Agradecimentos aos professores
 
 ## O QUE SOMOS?
 
