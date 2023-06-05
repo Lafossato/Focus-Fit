@@ -1,4 +1,6 @@
 # Focus-Fit
+![WhatsApp Image 2023-05-28 at 01 16 49](https://github.com/Lafossato/Focus-Fit/assets/92603640/b7b3917d-8d5b-49d2-9d25-0967858512d4)
+
 
 Desenvolvemos um aplicativo mobile criado para orientar e auxiliar usuários que praticam musculação e exercícios físicos a alcançarem os resultados desejados.
 
