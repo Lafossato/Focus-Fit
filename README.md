@@ -11,6 +11,7 @@
 * [CONSIDERAÇÕES FINAIS]
 
 ## O QUE SOMOS?
+
 Desenvolvemos um aplicativo mobile criado para orientar e auxiliar usuários que praticam musculação e exercícios físicos a alcançarem os resultados desejados.
 
 ## FERRAMENTAS E MÉTODOS ÁGEIS
@@ -21,24 +22,24 @@ Desenvolvemos um aplicativo mobile criado para orientar e auxiliar usuários que
 - GitHub;
 - Figma.
 
-´Documentação´:
+**Documentação:**
 - GitHub
 
-´Técnicas de qualidade aplicadas ao sistema computacional´:
+**Técnicas de qualidade aplicadas ao sistema computacional:**
 
 - Testes de Software;
 - Testes de Segurança;
 - Automação de Testes;
 - Gerenciamento de Configuração.
 
-´Ferramentas utilizadas´:
+**Ferramentas utilizadas:**
 
 - Git;
 - Selenium;
 - Nessus.
 
 ## PLANEJAMENTO DE TESTE DE SISTEMAS
-## TESTES:
+**TESTES:**
  Definido a especificação dos casos de uso, cada uma será testada individualmente, seguindo o roteiro da atividade a seguir.
 Os testes automatizados foram realizados da ferramenta Selenium.
 
