@@ -5,26 +5,26 @@ Desenvolvemos um aplicativo mobile criado para orientar e auxiliar usuários que
 ## FERRAMENTAS E MÉTODOS ÁGEIS
 ## Plano:
 
-- .Trello;
-- .Git;
-- .GitHub;
-- .Figma.
+- Trello;
+- Git;
+- GitHub;
+- Figma.
 
 ## Documentação:
-- .GitHub
+- GitHub
 
 ## Técnicas de qualidade aplicadas ao sistema computacional:
 
-- .Testes de Software;
-- .Testes de Segurança;
-- .Automação de Testes;
-- .Gerenciamento de Configuração.
+- Testes de Software;
+- Testes de Segurança;
+- Automação de Testes;
+- Gerenciamento de Configuração.
 
 ## Ferramentas utilizadas:
 
-- .Git;
-- .Selenium;
-- .Nessus;
+- Git;
+- Selenium;
+- Nessus;
 
 ## PLANEJAMENTO DE TESTE DE SISTEMAS
 ## TESTES:
@@ -45,14 +45,14 @@ Preço final do projeto R$99.200
 Depois vem a tela de login do úsuario, que precisa e-mail e senha. E ao decorrer do uso a cada semana a tela de desempenho mostra o progresso baseado no IMC(Índice de Massa Corporal) aonde vai colocar o peso e altura para ver a evoluição do usuário.
 
 ## REQUISITOS NÃO FUNCIONAIS
-- .Precisa ter intenet;
-- .O sitema deve ser protegido contra o acesso não autorizado;
-- .O sistema deve ter acesso ao banco de dados, MySQL;
-- .O sistema deve ser fácil de usar e entender;
-- .O sistema deve ter acesso aos dados fornecidos pelo usuário; 
-- .Portabilidade: O sistema deve ser capaz de rodar em diferentes dispositivos com alterações mínimas; 
-- .A modelagem deve ser feita no figma;
-- .O sistema deve ser feito na linguagem de programação Java;
+- Precisa ter intenet;
+- O sitema deve ser protegido contra o acesso não autorizado;
+- O sistema deve ter acesso ao banco de dados, MySQL;
+- O sistema deve ser fácil de usar e entender;
+- O sistema deve ter acesso aos dados fornecidos pelo usuário; 
+- Portabilidade: O sistema deve ser capaz de rodar em diferentes dispositivos com alterações mínimas; 
+- A modelagem deve ser feita no figma;
+- O sistema deve ser feito na linguagem de programação Java;
 
 ## ARQUITETURA DE CHAMA E RETORNO
 ![image](https://github.com/Lafossato/Focus-Fit/assets/92603640/68e863af-4344-45e3-b014-f72e4e47a047)
