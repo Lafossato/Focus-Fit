@@ -1,5 +1,4 @@
-![WhatsApp Image 2023-05-28 at 01 16 49](https://github.com/Lafossato/Focus-Fit/assets/92603640/b7b3917d-8d5b-49d2-9d25-0967858512d4)
-# Focus-Fit
+![WhatsApp Image 2023-05-28 at 01 16 49 2](https://github.com/Lafossato/Focus-Fit/assets/92603640/8a01865a-01fa-4e46-be9d-e93c251aa143)
 
 # Índice
 * [O QUE SOMOS?]
@@ -15,7 +14,7 @@
 Desenvolvemos um aplicativo mobile criado para orientar e auxiliar usuários que praticam musculação e exercícios físicos a alcançarem os resultados desejados.
 
 ## FERRAMENTAS E MÉTODOS ÁGEIS
-´Plano´:
+**Plano:**
 
 - Trello;
 - Git;
